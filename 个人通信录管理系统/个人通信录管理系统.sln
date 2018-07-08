@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "个人通信录管理系统", "个人通信录管理系统\个人通信录管理系统.vcxproj", "{579D5F9E-BC53-4B38-A65B-5AE9A2817BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{579D5F9E-BC53-4B38-A65B-5AE9A2817BEC}.Debug|x64.ActiveCfg = Debug|x64
+		{579D5F9E-BC53-4B38-A65B-5AE9A2817BEC}.Debug|x64.Build.0 = Debug|x64
+		{579D5F9E-BC53-4B38-A65B-5AE9A2817BEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{579D5F9E-BC53-4B38-A65B-5AE9A2817BEC}.Debug|x86.Build.0 = Debug|Win32
+		{579D5F9E-BC53-4B38-A65B-5AE9A2817BEC}.Release|x64.ActiveCfg = Release|x64
+		{579D5F9E-BC53-4B38-A65B-5AE9A2817BEC}.Release|x64.Build.0 = Release|x64
+		{579D5F9E-BC53-4B38-A65B-5AE9A2817BEC}.Release|x86.ActiveCfg = Release|Win32
+		{579D5F9E-BC53-4B38-A65B-5AE9A2817BEC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DAE3534-D1F0-4431-B205-369E03073D35}
+	EndGlobalSection
+EndGlobal
